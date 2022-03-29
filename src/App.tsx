@@ -1,9 +1,10 @@
 import React from 'react'
+import Home from '@/modules/home'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hey, Welcome to PokeSearch App</h1>
+      <Home />
     </div>
   )
 }
