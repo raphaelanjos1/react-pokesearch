@@ -14,7 +14,7 @@ ReactDOM.render(
       <ChakraProvider theme={theme}>
         <App />
       </ChakraProvider>
-    </React.StrictMode>,
+    </React.StrictMode>
   </QueryClientProvider>,
 
   document.getElementById('root')
